@@ -1,1 +1,2 @@
 # dotfiles
+vimrcをとりあえず保存
